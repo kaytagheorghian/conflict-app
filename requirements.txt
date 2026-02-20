@@ -1,5 +1,6 @@
 streamlit
 pandas
 requests
-matplotlib
-datasets
+transformers
+torch
+altair
